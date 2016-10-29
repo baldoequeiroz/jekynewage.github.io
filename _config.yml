@@ -4,7 +4,7 @@ email:
 description: A jekyll template for landing pages, portfolio and blogging
 
 baseurl: "/newage/" # the subpath of your site, e.g. /blog/
-url: "http://baldoequeiroz.github.io/newage/" # the base hostname & protocol for your site
+url: "http://baldoequeiroz.github.io/newage" # the base hostname & protocol for your site
 
 google_analytics: ""
 addthis_id: 
